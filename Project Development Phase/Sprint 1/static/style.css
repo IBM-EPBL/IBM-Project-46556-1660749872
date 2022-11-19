@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#left_side{
+    background-color: rgb(0, 41, 27);
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    color: white;
+
+}
+#right_side{
+    background-color: aliceblue;
+    width: 50%;
+    height: 100%;
+    float: right;
+}
+#Start_Caputure{
+    width: 50%;
+    height: 5%;
+}
+h1{
+    
+}
